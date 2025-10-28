@@ -1,0 +1,14 @@
+fastapi[standard]
+numpy
+openai-agents
+uvicorn
+pillow
+presidio-analyzer
+presidio-anonymizer
+pypdf2
+python-doctr
+python-docx
+python-dotenv
+eval_type_backport
+torch
+torchvision
